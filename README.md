@@ -1,18 +1,20 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# NESTER
+NESTER is a humanoid-like robot, a "human" version of the NES console by the Nintendo. She may be seen as cold and aggressive, but she just can't express her emotions properly. NESTER likes playing games, and especially hates corruptions and/or cartridge tilting.
+
+Her voicebank was created from the samples of NES, more specifically from the 2A03 sound chip of the console. Art by CelestaSi.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Female/Robot
+- Height: 195cm/6'5"
+- Weight: 89kg
+- Age: 40+ years
 
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: ru, jp
-
-## Second test bank
-Test description 2
+## Japanese CV+VV
+NESTER'S first voicebank. Made using Vocalizer & manual sample editing. Contains VV transitions for smoother sound. Reccomended to use in OpenUTAU with JA VCV&CVVC phonemizer. Monopitch, configured by Shirita_ii.
 - Type: UTAU
-- Languages: en
+- Languages: jp
+
+## MYCOEIROINK
+NESTER'S first Text-To-Speech voicebank for the COEIROINK platform. 
+- Type: COEIROINK
+- Languages: jp
