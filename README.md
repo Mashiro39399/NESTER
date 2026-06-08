@@ -9,6 +9,13 @@ Her voicebank was created from the samples of NES, more specifically from the 2A
 - Weight: 89kg
 - Age: 40+ years
 
+## Terms of use
+- Commercial Use of Voicebank Allowed: No.
+- Commercial Use of Character Allowed: No.
+- R-18 Content Allowed: Permission Required.
+- Use of the Design for AI Videos Allowed: No.
+- Use of Voicebank for Training AI Allowed: Permission Required.
+
 ## Japanese CV+VV
 NESTER'S first voicebank. Made using Vocalizer & manual sample editing. Contains VV transitions for smoother sound. Reccomended to use in OpenUTAU with JA VCV&CVVC phonemizer. Monopitch, configured by Shirita_ii.
 - Type: UTAU
