@@ -18,3 +18,8 @@ NESTER'S first voicebank. Made using Vocalizer & manual sample editing. Contains
 NESTER'S first Text-To-Speech voicebank for the COEIROINK platform. 
 - Type: COEIROINK
 - Languages: jp
+
+## English C+V
+NESTER's C+V English voicebank.
+- Type: UTAU
+- Languages: en
